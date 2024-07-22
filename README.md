@@ -52,7 +52,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MichaelMerino11/MichaelMerino11/output/snake.svg" alt="Snake animation" />
+##<img src="https://raw.githubusercontent.com/MichaelMerino11/MichaelMerino11/output/snake.svg" alt="Snake animation" />
 
 ###
 
