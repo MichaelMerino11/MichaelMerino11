@@ -1,4 +1,4 @@
-<h2 align="left">Hello! I'm Michael Merino and I'm a young Front-end developer. 😉</h2>
+<h2 align="left">Hello! I'm Michael Merino and I'm a young Full-stack developer. 😉</h2>
 
 ###
 
