@@ -1,0 +1,32 @@
+name: Update GitHub Profile Stats
+
+on:
+  schedule:
+    - cron: "0 5 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-profile:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      - name: Generate GitHub profile cards
+        uses: seijikohara/profile-cards-action@v0
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: MichaelMerino11
+
+          cards: overview,lifetime,contributions,composition,rhythm,languages
+
+          output-dir: assets/profile
+
+          themes: light,dark
+
+          commit: true
