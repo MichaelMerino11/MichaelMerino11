@@ -91,6 +91,7 @@ const michael = {
     "AI Integration"
   ]
 };
+```
 
 ## 📊 GitHub Activity
 
