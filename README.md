@@ -104,18 +104,6 @@ const michael = {
 
 ---
 
-## 📈 Contribution History
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/lifetime.dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile/lifetime.light.svg" />
-  <img src="./assets/profile/lifetime.light.svg" width="100%" alt="Lifetime GitHub Contributions" />
-</picture>
-</div>
-
----
-
 <details>
 <summary><b>📊 More GitHub Analytics</b></summary>
 <br/>
