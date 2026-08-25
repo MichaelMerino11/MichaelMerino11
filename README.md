@@ -8,7 +8,7 @@
 
 ### 👋 Hi, I'm Michael Merino
 
-Full-Stack Developer and Computer Science Engineering student, building web and mobile applications end-to-end — from responsive frontends and mobile apps to backend services, databases and deployment — plus independent software and automation projects on the side.
+Full-Stack Developer and Computer Science Engineer, building web and mobile applications end-to-end — from responsive frontends and mobile apps to backend services, databases and deployment — plus independent software and automation projects on the side.
 
 📍 Quito, Ecuador &nbsp;•&nbsp; 🌎 English B2 &nbsp;•&nbsp; 🚀 Always learning and building
 
