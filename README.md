@@ -1,25 +1,28 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Michael+Merino+(Maiki);Full-Stack+Developer;CS+Engineering+Student;Independent+Dev+%40+Maintronic" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:181717&height=200&section=header&text=Michael%20Merino&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20CS%20Engineering%20Student&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Header banner"/>
 
-<p>
-  Building web, mobile and automation systems — from ERP frontends to embedded/hardware integrations —
-  with a focus on <b>clean architecture</b>, <b>maintainability</b> and <b>real business impact</b>.
-</p>
+</div>
 
-<p>
-  📍 Quito, Ecuador &nbsp;•&nbsp; 🎓 CS Engineering @ Universidad Politécnica Salesiana &nbsp;•&nbsp; 🌎 English B2
-</p>
+<img align="right" width="180" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt=""/>
 
-<br/>
+### 👋 Hi, I'm Michael Merino
 
-<a href="https://www.linkedin.com/in/michael-merino">
+Full-Stack Developer and Computer Science Engineering student, building web and mobile applications end-to-end — from responsive frontends and mobile apps to backend services, databases and deployment — plus independent software and automation projects on the side.
+
+📍 Quito, Ecuador &nbsp;•&nbsp; 🌎 English B2 &nbsp;•&nbsp; 🚀 Always learning and building
+
+<br clear="right"/>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/michael-merino-0b7871207/">
   <img src="https://img.shields.io/badge/LinkedIn-Michael%20Merino-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:maikijunior9@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://portafolio-michael-merino-wqho.vercel.app">
+<a href="https://portafolio-michael-merino-wqho.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-181717?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
@@ -31,21 +34,16 @@
 
 ## 🚀 About Me
 
-I'm a **Full-Stack Developer** and Computer Science Engineering student who works on two fronts:
-
-- 🏢 **Frontend developer at Urgentito-EC S.A.**, building and maintaining a Vue 3 + TypeScript + Vuetify ERP for vehicle commercialization in Ecuador.
-- 🛠️ **Independent developer under my own brand, Maintronic**, delivering custom software, web platforms and hardware-integrated automation systems for external clients.
-
-My long-term goal is to grow Maintronic into a family business that generates independent, sustainable income.
+I enjoy working across the full development lifecycle: designing responsive interfaces and mobile experiences, building APIs and backend services, modeling databases, and shipping through CI/CD pipelines. I care about clean code, scalable architecture, and software that actually solves a real problem — I've worked on business-management platforms, mobile apps, and systems that integrate with physical hardware.
 
 ```typescript
 const michael = {
   location: "Quito, Ecuador 🇪🇨",
-  roles: ["Frontend Dev @ Urgentito-EC", "Independent Dev @ Maintronic", "CS Engineering Student @ UPS"],
+  role: "Full-Stack Developer",
 
   frontend: [
     "Vue 3", "TypeScript", "Vuetify",
-    "React", "TanStack Query"
+    "React", "JavaScript"
   ],
 
   backend: [
@@ -53,80 +51,24 @@ const michael = {
   ],
 
   mobile: [
-    "React Native", "Expo", "Socket.io"
+    "React Native", "Expo", "Ionic"
   ],
 
   databases: [
-    "PostgreSQL (Supabase / Neon)", "MongoDB", "Firebase"
+    "PostgreSQL", "MongoDB", "Firebase"
   ],
 
   deploymentAndTooling: [
     "Docker", "Render", "Vercel", "Netlify",
-    "GitHub Actions", "Linux (daily driver)",
-    "PyInstaller (Windows cross-compilation)"
+    "GitHub Actions", "Linux", "CI/CD"
   ],
 
   currentlyFocusedOn: [
-    "Software Architecture", "AI Integration",
-    "Hardware/Software Automation Systems", "Scalable Systems"
+    "Software Architecture", "Cloud Computing",
+    "AI Integration", "Scalable Systems"
   ],
 };
 ```
-
----
-
-## 🧩 Featured Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🚗 Urgentito ERP — Legaliza & Frontend**
-Vue 3 · TypeScript · Vuetify · TanStack Query
-Core frontend of a vehicle-commercialization ERP: legalization workflows, notary/authorization flows, mobile-responsive redesigns, and reporting dashboards.
-
-</td>
-<td width="50%" valign="top">
-
-**🌱 Grupo Malima — Greenhouse Automation**
-Node.js · Express · TypeScript · Vue 3 · Vuetify
-Full-stack platform communicating with a TinkerBoard over HTTP to automate and monitor greenhouse conditions, deployed on Render.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🧪 UTN · Laboratorio BIOGEM**
-FastAPI · PyInstaller
-Windows desktop system for biological sample tracking, integrated with a thermal label printer — delivered under Maintronic.
-
-</td>
-<td width="50%" valign="top">
-
-**💞 Date Planner**
-React Native · Expo · Supabase · Socket.io
-A personal mobile app to plan dates and track shared moments, with a relationship activity meter and anniversary countdown.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**📚 UPScholar**
-FastAPI · TF-IDF/Jaccard + Sentence-Transformers · Vue 3
-A scientific paper search engine for ICMLA 2019, replicating the Google Search UI, deployed on Vercel/Render.
-
-</td>
-<td width="50%" valign="top">
-
-**☀️ Aliservice — Solar Monitoring**
-Under the Maintronic brand
-Delivered a solar energy monitoring system as part of independent client work.
-
-</td>
-</tr>
-</table>
 
 ---
 
