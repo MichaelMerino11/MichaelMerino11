@@ -1,3 +1,97 @@
+<div align="center">
+
+# 👋 Hi, I'm Michael Merino
+
+### 💻 Computer Science Engineering Student & Full-Stack Developer
+
+<p>
+  Building modern web and mobile applications with a focus on
+  <b>clean code</b>, <b>scalable architectures</b> and
+  <b>great user experiences</b>.
+</p>
+
+<p>
+  📍 Quito, Ecuador &nbsp;•&nbsp;
+  🌎 English B2 &nbsp;•&nbsp;
+  🚀 Always learning and building
+</p>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/michael-merino">
+  <img src="https://img.shields.io/badge/LinkedIn-Michael%20Merino-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:maikijunior9@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://portafolio-michael-merino-wqho.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-181717?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+---
+
+## 🚀 About Me
+
+I'm a **Full-Stack Developer** and Computer Science Engineering student passionate about turning ideas into reliable, maintainable and user-focused software.
+
+I enjoy working across the entire development lifecycle — from designing responsive interfaces and mobile experiences to developing APIs, backend services, databases and deployment pipelines.
+
+```typescript
+const michael = {
+  location: "Quito, Ecuador 🇪🇨",
+
+  role: "Full-Stack Developer",
+
+  frontend: [
+    "Angular",
+    "React",
+    "TypeScript",
+    "JavaScript"
+  ],
+
+  backend: [
+    "Java / Spring Boot",
+    "Node.js",
+    "Python"
+  ],
+
+  mobile: [
+    "Ionic",
+    "React Native",
+    "Flutter"
+  ],
+
+  databases: [
+    "PostgreSQL",
+    "MySQL",
+    "MongoDB",
+    "Firebase"
+  ],
+
+  cloudAndDevOps: [
+    "Docker",
+    "AWS",
+    "Azure",
+    "CI/CD",
+    "Linux",
+    "GitHub Actions"
+  ],
+
+  currentlyFocusedOn: [
+    "Software Architecture",
+    "Cloud Computing",
+    "DevOps",
+    "Scalable Systems",
+    "AI Integration"
+  ]
+};
+
 ## 📊 GitHub Activity
 
 <div align="center">
