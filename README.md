@@ -1,59 +1,36 @@
-<h2 align="left">Hello! I'm Michael Merino and I'm a young Full-stack developer. 😉</h2>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MichaelMerino11&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MichaelMerino11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+👋 Hi, I'm Michael Merino
+Full-Stack Developer · Software Engineer · Problem Solver
+<p> I build modern, scalable and user-focused applications with clean code, thoughtful architecture and a constant desire to learn. </p> <p> <a href="https://github.com/MichaelMerino11"> <img src="https://img.shields.io/github/followers/MichaelMerino11?label=Followers&style=for-the-badge&color=0A66C2" alt="GitHub followers"/> </a> <a href="https://github.com/MichaelMerino11"> <img src="https://img.shields.io/github/stars/MichaelMerino11?label=Stars&style=for-the-badge&color=6C63FF" alt="GitHub stars"/> </a> <a href="mailto:maikijunior9@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </p> </div>
+🚀 About Me
+
+I'm a Full-Stack Developer passionate about transforming ideas into reliable and scalable software.
+
+I enjoy working across the entire development lifecycle — from designing interfaces and building APIs to managing databases, cloud infrastructure and deployment.
+
+💻 Building full-stack web applications
+🧠 Constantly learning and improving my engineering skills
+⚡ Interested in performance, scalability and clean architecture
+☁️ Exploring cloud technologies and modern development workflows
+🎯 Focused on writing maintainable and production-ready code
+🛠️ Tech Stack
+Frontend
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" alt="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" alt="CSS3"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" alt="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" alt="TypeScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" alt="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="42" alt="Angular"/> </p>
+Backend & Programming
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" alt="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" alt="C++"/> </p>
+Cloud & Tools
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="52" alt="AWS"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" alt="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" alt="GitHub"/> </p>
+📊 GitHub Analytics
+<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=MichaelMerino11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Michael's GitHub statistics"/> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelMerino11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Michael's most used languages"/> </div> <br/> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MichaelMerino11&theme=tokyonight&hide_border=true" alt="Michael's GitHub streak"/> </div>
+🌱 Currently
+Building        → Full-Stack applications
+Learning        → Software architecture & cloud technologies
+Improving       → Code quality, scalability & system design
+Exploring       → New technologies and better development practices
+
+📌 Featured Projects
+<div align="center"> <a href="https://github.com/MichaelMerino11"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelMerino11&repo=YOUR_REPOSITORY_1&theme=tokyonight&hide_border=true" alt="Featured project"/> </a> <a href="https://github.com/MichaelMerino11"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelMerino11&repo=YOUR_REPOSITORY_2&theme=tokyonight&hide_border=true" alt="Featured project"/> </a> </div>
+🤝 Let's Connect
+<div align="center"> <a href="https://www.linkedin.com/in/michael-merino-0b7871207/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://www.instagram.com/maikijr11/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> <a href="mailto:maikijunior9@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> </div> <br/> <div align="center"> <img src="https://komarev.com/ghpvc/?username=MichaelMerino11&style=for-the-badge&color=6C63FF" alt="Profile views"/>
+💡 Always learning. Always building.
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y2djV4aXZma293ZjY4OTYxY2U4eHB2cXYwM2R1Znd6dGQ3cTQ4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/maikijr11/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/michael-merino-0b7871207/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/michaelandres.junior11" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-  <a href="maikijunior9@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/MichaelMerino11/count.svg?"  />
-</div>
-
-###
