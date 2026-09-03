@@ -38,7 +38,7 @@ I enjoy working across the full development lifecycle: designing responsive inte
 
 ```typescript
 const michael = {
-  location: "Quito, Ecuador 🇪🇨",
+  location: "Quito, Ecuador",
   role: "Full-Stack Developer",
 
   frontend: [
